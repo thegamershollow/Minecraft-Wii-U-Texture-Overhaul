@@ -1,0 +1,86 @@
+=====================
+[UltimaCraft v.1.2]
+[29.01.2022]
+=====================
+[Changes]:
+	- updated to 1.18;
+	- updated colormaps;
+	- brich leaves in flower forest are pink rather than magenta;
+	- fixed underwater magma overlays;
+	- fixed crossbows with tipped arrows;
+	- reworked blaze powder and blaze rod;
+	- quartz bricks, stone bricks, bricks overlays attach only on sides now;
+	- added deepslate, cracked deepslate variations;
+	- netherite sword damage stages are changed;
+	- other little changes.
+	
+
+=====================
+[UltimaCraft v.1.1]
+[11.09.2021]
+=====================
+[Changes]:
+	- added underwater mossy wooden planks, logs and trapdoors;
+	- added underwater stones and starfish on sand;
+	- changed magma texture underwater;
+	- changed lava bucket texture;
+	- added animation to powder snow bucket;
+	- added overlay for red sandstone;
+	- added overlay for mycelium;
+	- fixed soul sand overlay bugs;
+	- fixed oak, birch, jungle and acacia trapdoors culling.
+
+
+
+=====================
+[UltimaCraft v.1.0a]
+[05.06.2021]
+=====================
+[Changes]:
+	- added overlays for calcite, tuff, deepslate;
+	- fixed changelog dates.
+
+
+
+=====================
+[UltimaCraft v.1.0]
+[03.06.2021]
+=====================
+[Changes]:
+	- all enchantments have been moved to UltimaCraft Enchantments add-on (https://www.curseforge.com/minecraft/texture-packs/ultimacraft-enchantments);
+	- all custom GUI have been moved to UltimaCraft Interface add-on (https://www.curseforge.com/minecraft/texture-packs/ultimacraft-interface);
+	- almost all custom models have been moved to UltimaCraft Models add-on (https://www.curseforge.com/minecraft/texture-packs/ultimacraft-models);
+	- deleted all 3D block models (crafting table, ores, respawn anchor, chains, cartography table, fletching table, furnace, smithing table, smoker, blast furnace, bee nest, beehive, enchanting table, end portal frame, daylight detector, barrel, loom, composter, command block, bookshelfs);
+	except: mushrooms, fungus, iron bars, pistons, rails;
+	- some models are simplified (doors, trapdoors, jukebox)
+	- added top ctm to sugar cane;
+	- returned chest, bed and shulker models;
+	- added rotations for mushrooms;
+	- added axe with fortune enchantment textures;
+	- reworked efficiency enchanted books and items;
+	- fixed bow with infinite enchantment;
+	- fixed gold axe textures (also with enchantments);
+	- added redstone ore glow when activated;
+	- fixed redsandstone stairs wrong texture;
+	- fixed birch trapdoor model;
+	- remade bookshelfs;
+	- tweaked model of unlit campfire (coal part has been removed);
+	- added daylight detector visual indicators;
+	- added new ore variants;
+	- tweaked item frame model, now it works fine with pressure plates;
+	- added target block indicators;
+	- fixed small dripleaf model & textures;
+	- added more visual fish buckets;
+	- added visual axolotl buckets;
+	- retexture of fishing rod;
+	- fixed shield missing texture when breaking;
+	- added new view from third person for amethyst cristal, arrows, shears;
+	- added new textures for signs;
+	- new texture for blaze rod;
+	- added emissive textures for blaze rod and blaze powder;
+	- added emissive textures for enchanting table particles;
+	- added texture for glow item frame item;
+	- added texture for dried kelp;
+	- added textures for crafting table;
+	- added textures for chest and traped chest;
+	- added overlay for snow, moss block, calcite, deepslate, tuff.

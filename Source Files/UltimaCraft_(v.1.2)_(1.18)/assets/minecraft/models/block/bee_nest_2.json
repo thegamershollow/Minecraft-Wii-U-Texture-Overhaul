@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench by _GrandMagus_",
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"particle": "block/bee_nest_side",
+		"bottom": "block/bee_nest_bottom",
+		"top": "block/bee_nest_top",
+		"front": "block/bee_nest_front",
+		"side": "block/bee_nest_side",
+		"honey": "block/bee_nest_front_2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#honey", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}
