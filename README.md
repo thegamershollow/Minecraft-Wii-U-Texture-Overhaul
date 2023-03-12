@@ -1,2 +1,2 @@
-# Minecraft-Wii-U-Texture-Pack-Library
-This is a library of a multitude of texture packs that I have made
+# Minecraft-Wii-U-Texture-Overhaul
+This is a texture overhaul of the default Minecraft: Wii U Edition's textures.
