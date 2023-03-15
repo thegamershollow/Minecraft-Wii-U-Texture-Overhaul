@@ -1,4 +1,4 @@
-# ** These are the urls to the places where I got the replaced textures from **
+# These are the urls to the places where I got the replaced textures from
 
 ## URLS:
 - [UltimaCraft Texture Pack for Minecraft: Java Edition](https://www.curseforge.com/minecraft/texture-packs/ultimacraft)
