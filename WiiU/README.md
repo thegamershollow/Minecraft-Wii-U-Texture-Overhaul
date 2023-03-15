@@ -1,23 +1,25 @@
 # Minecraft Wii U Edition
 This is a dumbed down uncompressed archive of the game, including only the texture files, and the Minecraft.Client.rpx
 
-## FileTree
-🗂️ WiiU/
-┣ 📂 Minecraft Wii U Edition/
-┃ ┣ 📂 code/
+##FileTree
+
+🗂️ WiiU
+
+┗ 📁 Minecraft Wii U Edition
+  ┣ 📂 code
 ┃ ┃ ┗ 📄 Minecraft.Client.rpx
-┃ ┗ 📁 content/
-┃   ┗ 📁 Common/
-┃ ┃   ┣ 📂 Media/
-┃ ┃ ┃ ┃ ┣ 📂 font/
+  ┗ 📁 content
+┃   ┗ 📁 Common
+┃ ┃   ┣ 📂 Media
+┃ ┃ ┃ ┃ ┣ 📂 font
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 Mojangles.ttf
 ┃ ┃ ┃ ┃ ┗ 📄 MediaWiiU.arc
-┃ ┃   ┗ 📁 res/
-┃ ┃ ┃   ┣ 📂 1_2_2/
-┃ ┃ ┃ ┃ ┃ ┣ 📂 achievement/
+┃ ┃   ┗ 📁 res
+┃ ┃ ┃   ┣ 📂 1_2_2
+┃ ┃ ┃ ┃ ┃ ┣ 📂 achievement
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 bg.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 icons.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 armor/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 armor
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 chain_1.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 chain_2.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 cloth_1.png
@@ -32,17 +34,17 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 iron_2.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 power.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 turtle_1.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 art/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 art
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 kz.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 environment/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 environment
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 clouds.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 light_normal.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 rain.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 snow.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 font/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 font
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 alternate.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 default.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 gui/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 gui
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 alchemy.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 allitems.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 background.png
@@ -59,7 +61,7 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 slot.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 trap.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 unknown_pack.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 item/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 item
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 arrows.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 boat.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 book.png
@@ -69,7 +71,7 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 largechest.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 sign.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 xporb.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 misc/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 misc
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 dial.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 explosion.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 foliagecolor.png
@@ -85,8 +87,8 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 vignette.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 water.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 watercolor.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 mob/
-┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 enderdragon/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 mob
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 enderdragon
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 beam.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 body.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 crystal.png
@@ -94,7 +96,7 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 ender.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 ender_eyes.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 shuffle.png
-┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 villager/
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 villager
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 butcher.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 farmer.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 librarian.png
@@ -136,11 +138,11 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 wolf_angry.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 wolf_tame.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 zombie.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 terrain/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 terrain
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 moon.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 moon_phases.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 sun.png
-┃ ┃ ┃ ┃ ┃ ┣ 📂 title/
+┃ ┃ ┃ ┃ ┃ ┣ 📂 title
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 black.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 credits.txt
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 earlyplayers.txt
@@ -152,14 +154,14 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 pack.txt
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 particles.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 terrain.png
-┃ ┃ ┃   ┣ 📂 TitleUpdate/
-┃ ┃ ┃ ┃ ┃ ┣ 📂 GameRules/
+┃ ┃ ┃   ┣ 📂 TitleUpdate
+┃ ┃ ┃ ┃ ┃ ┣ 📂 GameRules
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 MG01.xml
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 MG02.xml
 ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 MG03.xml
 ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 lobby.xml
-┃ ┃ ┃ ┃ ┃ ┗ 📁 res/
-┃ ┃ ┃ ┃ ┃   ┣ 📂 armor/
+┃ ┃ ┃ ┃ ┃ ┗ 📁 res
+┃ ┃ ┃ ┃ ┃   ┣ 📂 armor
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 chain_1.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 chain_2.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 cloth_1.png
@@ -176,19 +178,19 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 iron_2.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 power.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 turtle_1.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 art/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 art
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 kz.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 environment/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 environment
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 BoostArrow.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 Thermal_1.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 Thermal_2.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 rain.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 snow.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 font/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 font
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 Default.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 Mojangles_11.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 Mojangles_7.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 gui/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 gui
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 alchemy.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 allitems.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 background.png
@@ -206,14 +208,14 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 slot.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 trap.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 unknown_pack.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 item/
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 armorstand/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 item
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 armorstand
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 wood.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 banner/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 banner
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 Banner_Atlas.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 banner_base.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 boat/
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 conduit/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 boat
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 conduit
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 conduit_base.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 conduit_cage.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 conduit_closed.png
@@ -234,7 +236,7 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 trapped_double.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 trident.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 trident_riptide.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 misc/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 misc
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 additionalmapicons.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 beacon_beam.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 explosion.png
@@ -243,15 +245,15 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 mapicons.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 particlefield.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 tunnel.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 mob/
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 bear/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 mob
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 bear
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 polarbear.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 enderdragon/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 enderdragon
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 beam.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 dragon_fireball.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 ender.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 ender_eyes.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 fish/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 fish
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 cod.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 pufferfish.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 salmon.png
@@ -269,8 +271,8 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 tropical_b_pattern_4.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 tropical_b_pattern_5.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 tropical_b_pattern_6.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 horse/
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 armor/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 horse
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 armor
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 horse_armor_diamond.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 horse_armor_gold.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 horse_armor_iron.png
@@ -291,15 +293,15 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 horse_white.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 horse_zombie.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 mule.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 illager/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 illager
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 evoker.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 fangs.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 illusionist.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 vex.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 vex_charging.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 vindicator.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 llama/
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 decor/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 llama
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 decor
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 decor_black.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 decor_blue.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 decor_brown.png
@@ -322,13 +324,13 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 llama_gray.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 llama_white.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 spit.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 parrot/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 parrot
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 parrot_blue.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 parrot_green.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 parrot_grey.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 parrot_red_blue.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 parrot_yellow_blue.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 rabbit/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 rabbit
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 black.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 brown.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 caerbannog.png
@@ -337,27 +339,27 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 toast.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 white.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 white_splotched.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 shulker/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 shulker
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 endergolem.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 spark.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 skeleton/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 skeleton
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 stray.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 stray_overlay.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 villager/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 villager
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 butcher.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 farmer.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 librarian.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 priest.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 smith.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 villager.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 wither/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 wither
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 wither.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 wither_armor.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 wither_invulnerable.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 zombie/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 zombie
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 drowned.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 husk.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 zombie_villager/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 zombie_villager
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 zombie_butcher.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 zombie_farmer.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 zombie_librarian.png
@@ -394,8 +396,8 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 wolf_tame.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 zombie.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 zombie_villager.png
-┃ ┃ ┃ ┃ ┃   ┣ 📂 textures/
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 blocks/
+┃ ┃ ┃ ┃ ┃   ┣ 📂 textures
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 blocks
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 cauldron_water.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 fire_0.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 fire_0.txt
@@ -427,7 +429,7 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 water_flowMipMapLevel3.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 water_flowMipMapLevel4.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📄 water_flowMipMapLevel5.png
-┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 items/
+┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂 items
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 clock.png
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 clock.txt
 ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📄 compass.png
@@ -449,10 +451,10 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃   ┣ 📄 terrain.png
 ┃ ┃ ┃ ┃ ┃   ┣ 📄 terrainMipMapLevel2.png
 ┃ ┃ ┃ ┃ ┃   ┗ 📄 terrainMipMapLevel3.png
-┃ ┃ ┃   ┣ 📂 achievement/
+┃ ┃ ┃   ┣ 📂 achievement
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 bg.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 icons.png
-┃ ┃ ┃   ┣ 📂 armor/
+┃ ┃ ┃   ┣ 📂 armor
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 chain_1.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 chain_2.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 cloth_1.png
@@ -466,17 +468,17 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 iron_2.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 power.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 turtle_1.png
-┃ ┃ ┃   ┣ 📂 art/
+┃ ┃ ┃   ┣ 📂 art
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 kz.png
-┃ ┃ ┃   ┣ 📂 environment/
+┃ ┃ ┃   ┣ 📂 environment
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 clouds.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 rain.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 snow.png
-┃ ┃ ┃   ┣ 📂 font/
+┃ ┃ ┃   ┣ 📂 font
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 Mojangles_11.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 Mojangles_7.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 default.png
-┃ ┃ ┃   ┣ 📂 gui/
+┃ ┃ ┃   ┣ 📂 gui
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 alchemy.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 allitems.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 background.png
@@ -494,13 +496,13 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 slot.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 trap.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 unknown_pack.png
-┃ ┃ ┃   ┣ 📂 item/
+┃ ┃ ┃   ┣ 📂 item
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 arrows.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 boat.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 cart.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 door.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 sign.png
-┃ ┃ ┃   ┣ 📂 misc/
+┃ ┃ ┃   ┣ 📂 misc
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 dial.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 foliagecolor.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 footprint.png
@@ -512,7 +514,7 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 vignette.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 water.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 watercolor.png
-┃ ┃ ┃   ┣ 📂 mob/
+┃ ┃ ┃   ┣ 📂 mob
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 char.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 char1.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 char2.png
@@ -541,11 +543,10 @@ This is a dumbed down uncompressed archive of the game, including only the textu
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 wolf_angry.png
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 wolf_tame.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 zombie.png
-┃ ┃ ┃   ┣ 📂 terrain/
+┃ ┃ ┃   ┣ 📂 terrain
 ┃ ┃ ┃ ┃ ┃ ┣ 📄 moon.png
 ┃ ┃ ┃ ┃ ┃ ┗ 📄 sun.png
-┃ ┃ ┃   ┗ 📁 title/
+┃ ┃ ┃   ┗ 📁 title
 ┃ ┃ ┃ ┃   ┣ 📄 black.png
 ┃ ┃ ┃ ┃   ┣ 📄 mclogo.png
 ┃ ┃ ┃ ┃   ┗ 📄 mojang.png
-┗ 📄 README.md
