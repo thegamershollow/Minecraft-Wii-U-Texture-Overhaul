@@ -1,7 +1,7 @@
 # Minecraft Wii U Edition
 This is a dumbed down uncompressed archive of the game, including only the texture files, and the Minecraft.Client.rpx
 
-## FileTree
+## Files/Documents in This Directory
 
 🗂️ WiiU  
 ┗ 📁 Minecraft Wii U Edition  
